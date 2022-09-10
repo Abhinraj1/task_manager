@@ -1,16 +1,13 @@
-# task_manager
 
-A new Flutter project.
+## Task Organiser
+## Features
 
-## Getting Started
+- Auto Add Task
+- Timer For Each Task
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Images
+<img src="ReadmeImages/tasko1.jpg" width=25% height=25%>
+<img src="ReadmeImages/tasko2.jpg" width=25% height=25%>
+<img src="ReadmeImages/tasko3.jpg" width=25% height=25%>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
